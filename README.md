@@ -1,4 +1,4 @@
-# 📝 12MegaBlog
+# 📝 MegaBlog
 
 A full-featured blogging platform built with **React**, **Vite**, and **Appwrite** — supporting rich-text authoring, user authentication, and complete post management.
 
